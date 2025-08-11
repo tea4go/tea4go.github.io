@@ -1,10 +1,10 @@
 # QShell
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Go](https://img.shields.io/badge/Go-1.23%2B-blue.svg)](https://go.dev/)
-[![release](https://img.shields.io/badge/Version-5.3.8-green.svg)](https://github.com/tea4go/qshell/releases)
+[![release](https://img.shields.io/badge/Version-5.3.9-green.svg)](https://github.com/tea4go/qshell/releases)
 [![Documentation](https://img.shields.io/badge/docs-中文文档-green.svg)](https://tea4go.github.io/)
 
-> 🎉 **最新版本 5.3.8**: 收藏命令支持分组，快捷键功能优化，界面优化
+> 🎉 **最新版本 5.3.9**: 同步优化、密钥支持一键复制、收藏命令支持拖拽
 >
 > 🎯 **核心功能**: 终端会话 | 文件管理 | Markdown 笔记 | AIChat 助手 | MCP | 翻译 | 远程桌面连接 | 云同步 
 > 
@@ -80,7 +80,7 @@ QShell 提供高度自定义的界面风格，支持多会话管理、全局/会
 - 支持系统配置同步
 - 支持远程桌面配置同步
 
-<img width="800" height="600" alt="云同步" src="https://github.com/user-attachments/assets/ab18f909-fd36-4f19-8248-0c6c0ec223e5" />
+<img width="800" height="400" alt="SCR-20250811-iwde" src="https://github.com/user-attachments/assets/b635bfdf-045d-4c0a-b0ad-aa4e1d04d9b3" />
 
 
 # 文档
